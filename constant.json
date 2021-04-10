@@ -1,0 +1,8 @@
+{
+  "days": "10",
+  "zipcode": "94117",
+  "recipients": [
+    "bill@email.com",
+    "bob@email.com"
+  ]
+}
